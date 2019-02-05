@@ -22,11 +22,6 @@ function showTab(){
 	}
 	temp.classList.add("show");
 
-<<<<<<< HEAD
 	
 	asdasdasdsadsad
-=======
-	asdasdasdsad
-	
->>>>>>> strzalka
 }
