@@ -23,5 +23,5 @@ function showTab(){
 	temp.classList.add("show");
 
 	
-	asdasdasdsadsad
+
 }
