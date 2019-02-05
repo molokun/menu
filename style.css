@@ -1,0 +1,35 @@
+.wrapper{
+	
+	overflow:hidden;
+	
+	background-color:#f1f1f1;
+	width:100%;
+	
+}
+.tab{
+	display:inline-block;
+	border:none;
+	padding:15px 15px;
+	background-color:#f1f1f1;
+	transition:0.3s;
+	width:15%;
+	float:left;
+
+}
+.tab:hover{
+	background-color:#ddd;
+}
+
+.tabcontent{
+	display:none;
+	padding: 6px 12px;
+	border: 1px solid #ccc;
+	border-top:none;
+	
+}
+.active{
+	background-color:#ccc;
+}
+.show{
+	display:block;
+}
